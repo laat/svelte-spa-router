@@ -6,5 +6,5 @@
     "checkJs": true,
     "types": ["svelte"]
   },
-  "include": ["*.d.ts", "examples/dynamic-imports/src/**/*"]
+  "include": ["*.d.ts", "examples/*/src/**/*"]
 }
